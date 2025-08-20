@@ -37,7 +37,7 @@
         "expo-build-properties",
         {
           "android": {
-            "kotlinVersion": "1.9.23"
+            "kotlinVersion": "1.9.22"
           }
         }
       ]
@@ -50,7 +50,7 @@
         "origin": false
       },
       "eas": {
-        "projectId": "e7046a94-f7f1-4572-8f60-a83a6ba6a836"
+        "projectId": "14a085d0-9f25-48cd-bcf3-7b54f0508cdc"
       }
     }
   }
